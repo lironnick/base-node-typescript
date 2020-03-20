@@ -1,4 +1,4 @@
-Base de qualquer projeto Node.js
+Base de qualquer projeto Node.js com typescript
 --------
 
 
